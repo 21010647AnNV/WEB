@@ -1,0 +1,8 @@
+﻿tentaikhoan=
+loai-the=
+menhgia=
+maychu=
+loai_nap=luong
+mathe=
+seri=
+

@@ -1,0 +1,3 @@
+﻿Trình quản lý 
+thiết kế bởi Daniel Yang - FB Daniel Yang 
+Phiên bản 0.1
