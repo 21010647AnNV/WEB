@@ -87,7 +87,7 @@
         <div class="title">
             <h4>Bạn nên tải phiên bản nào?</h4></div>
         <div class="content">
-            <p>- Nếu bạn sử dụng điện thoại Nokia cũ (N series, E series, S40, S60...) hãy tải <a href="/download/java/Army-230-Chicky.jar" style="color: black"><b>phiên bản</b></a> bản giành cho Java.</p>
+            <p>- Nếu bạn sử dụng điện thoại Nokia cũ (N series, E series, S40, S60...) hãy tải <a href="/download/java/Army-230-v10.jar" style="color: black"><b>phiên bản</b></a> bản giành cho Java.</p>
 
             <p>- Nếu bạn đang sử dụng điện thoại chạy Android, bạn có thể tải và sử dụng giả lập J2 Loader<a href="/download/emulator/J2ME Loader_1.7.9.apk" style="color: black"><b>tại đây</b></a> và chạy file jar ở phiên bản dành cho Java ở trên.</p>
 
